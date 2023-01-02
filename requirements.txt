@@ -1,0 +1,2 @@
+gtts==2.3.0
+streamlit==1.16.0
